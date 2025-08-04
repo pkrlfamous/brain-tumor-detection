@@ -11,5 +11,18 @@ This is a simple web application built with Streamlit that allows users to uploa
 ## Getting Started
 
 1. Clone the repository.
-2. Install dependencies using:
+2. Install dependencies after making conda env
+3. Run the app: `streamlit run app.py`
 
+
+## Files
+
+- `app.py` – Main Streamlit app file
+- `model.h5` – Pre-trained model file
+- `requirements.txt` – Python dependencies
+- `brain-tumor-detection` – jupyter notebook
+- `brain_mri_dataset` - dataset
+
+## Deployment
+
+The app can be deployed for free using [Streamlit Cloud](https://streamlit.io/cloud).
